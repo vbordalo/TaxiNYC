@@ -2,4 +2,4 @@
 train*.csv
 .DS_Store
 tmp/
-jupyterhub*
+old/
