@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+train*.csv
+.DS_Store
+tmp/
